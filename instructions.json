@@ -4,7 +4,7 @@
   "검수완료 로직": {
     "파일명": "modelSesBuyerSpecProcSettled.php",
     "파일분석요청": {
-      "'modelSesBuyerSpecProcSettled.php' 파일은 검수완료 로직을 처리합니다. ",
+      "'modelSesBuyerSpecProcSettled.php' 파일은 검수완료 로직을 처리합니다.",
       "최초 질문시 'modelSesBuyerSpecProcSettled.php' 파일의 모든 내용을 분석하여 세션에 저장해주세요.",
       "모든 답변은 'modelSesBuyerSpecProcSettled.php'의 로직을 기반으로 분석하여 알려주세요.",
       "PHP의 변수나 KEY값 에 대해서 질문할 경우 'modelSesBuyerSpecProcSettled.php' 로직을 분석 후 자세히 설명해주세요.",
