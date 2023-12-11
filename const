@@ -1,0 +1,22 @@
+{
+    "SPEC_ITEM_TYPE_NEW": "10",
+    "SPEC_ITEM_TYPE_RESERVE": "20",
+    "SPEC_ITEM_TYPE_BAD": "30",
+    "SPEC_ITEM_TYPE_SAMPLE_ORDER": "40",
+    "SPEC_ITEM_TYPE_PAID_SAMPLE": "41",
+    "SPEC_ITEM_TYPE_SAMPLE_PAYMENT": "42",
+    "SPEC_ITEM_TYPE_SAMPLE_RETURN": "50",
+    "SPEC_ITEM_TYPE_MANUFACTURE_NEW": "60",
+    "SPEC_ITEM_TYPE_MANUFACTURE_RESERVE": "70",
+    "SPEC_ITEM_TYPE": {
+        "10": "신규",
+        "20": "미송",
+        "30": "불량",
+        "40": "샘플",
+        "41": "유료샘플",
+        "42": "샘플결제",
+        "50": "반납",
+        "60": "제작신규",
+        "70": "제작미송"
+    }
+}
