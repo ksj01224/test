@@ -18,5 +18,19 @@
         "50": "반납",
         "60": "제작신규",
         "70": "제작미송"
+    },
+    "IS_NOT_REFUNDED": "F",
+    "IS_REFUNDED": "T",
+    "IS_HOLD_REFUNDED": "H",
+    "IS_DISCARD_REFUNDED": "D",
+    "IS_PART_REFUNDED": "P",
+    "IS_OPTION_REFUNDED": "O",
+    "REFUNDED": {
+        "F": "미송",
+        "T": "환불",
+        "H": "매입",
+        "D": "폐기",
+        "P": "부분처리",
+        "O": "옵션변경"
     }
 }
