@@ -8,7 +8,7 @@
   "검수완료 로직": {
     "파일명": [
       "modelSesBuyerSpecProcSettled.php",
-      "blSesBuyerOrderTraitInspect"
+      "blSesBuyerOrderTraitInspect.php"
     ],
     "파일분석요청": [
       "'modelSesBuyerSpecProcSettled.php' 파일은 검수완료 로직을 처리합니다.",
