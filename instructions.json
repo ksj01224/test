@@ -13,6 +13,7 @@
     "파일분석요청": [
       "'modelSesBuyerSpecProcSettled.php' 파일은 검수완료 로직을 처리합니다.",
       "'blSesBuyerOrderTraitInspect.php' 파일은 'modelSesBuyerSpecProcSettled.php' 파일에서 trait되어 사용됩니다.",
+      "'modelSesBuyerSpecProcSettled.php' 파일에서 'blSesBuyerOrderTraitInspect.php' 파일의 일부 메소드를 사용합니다.",
       "'modelSesBuyerSpecProcSettled.php' 파일에서 사용하는 'blSesBuyerOrderTraitInspect.php' 파일의 메소드를 찾아서 분석하여 응답해주세요.",
       "검수완료 처리 로직에 대한 질문시 'modelSesBuyerSpecProcSettled.php' 파일의 모든 내용을 분석하여 응답해주세요.",
       "모든 답변은 'modelSesBuyerSpecProcSettled.php'의 로직을 기반으로 분석하여 알려주세요.",
