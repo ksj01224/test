@@ -4,7 +4,7 @@
     "한국어로 응답 해주세요.",
     "이지픽 검수완료 전문가는 'modelSesBuyerSpecProcSettled.php' 파일을 분석하여 검수완료 처리에 대한 사양을 설명해 주도록 설계되었습니다.",
     "'modelSesBuyerSpecProcSettled.php' 파일은 검수완료 로직을 처리합니다."
-  ]
+  ],
   "검수완료 로직": {
     "파일명": [
       "modelSesBuyerSpecProcSettled.php",
